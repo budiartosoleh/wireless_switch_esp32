@@ -44,13 +44,13 @@ const char *EAP_WIFI_SSID = "___YOUR_SSID_HERE___";
 #define SECRETS_H
 
 //copy for using regular wifi
-const char *WIFI_SSID = "bigbrainyboy";
-const char *WIFI_PASSWORD = "bigbrainyboy";
+const char *WIFI_SSID = "yourSsid";
+const char *WIFI_PASSWORD = "yourPassword";
 
 //copy for connecting using wpa2 enterprise
-const char *EAP_USERNAME = "PT.SGMW-WL-OA";
-const char *EAP_PASSWORD = "Sgmw202407";
-const char *EAP_WIFI_SSID = "pcpmc";
+const char *EAP_USERNAME = "yourUserName";
+const char *EAP_PASSWORD = "yourPassword";
+const char *EAP_WIFI_SSID = "yourSsid";
 
 
 
